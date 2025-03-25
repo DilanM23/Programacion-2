@@ -53,7 +53,6 @@ public class Estadistica {
         for (int i = 0; i < n; i++) {
             this.datos[i] = leer.nextFloat();
         }
-        //leer.close(); // Se cierra el Scanner
     }
 
     // Mostrar

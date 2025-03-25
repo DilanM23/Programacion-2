@@ -6,13 +6,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		// ESTADISTA
-		/*
 		Estadistica e1 = new Estadistica();
 		e1.llenar();
 		e1.mostrar();
 		e1.promedio();
 		e1.desviacion();
-		*/
+		
 		//Ecuacion Cuadratica
 		Scanner scanner = new Scanner(System.in);
 		
