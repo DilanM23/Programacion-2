@@ -30,7 +30,5 @@ public class Main {
 		e1.mostrar();
 		e1.promedio();
 		e1.desviacion();
-		
-		
 	}
 }
