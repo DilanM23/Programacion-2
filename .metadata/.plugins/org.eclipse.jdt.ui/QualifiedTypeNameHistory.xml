@@ -11,4 +11,9 @@
     <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="Fila_A.LineaTeleferico"/>
+    <fullyQualifiedTypeName name="Examen_FilaA.Artista"/>
+    <fullyQualifiedTypeName name="Examen_FilaA.Anuncio"/>
+    <fullyQualifiedTypeName name="Examen_FilaA.Pintura"/>
+    <fullyQualifiedTypeName name="Java.Fila_B.Artista"/>
+    <fullyQualifiedTypeName name="Java.Fila_B.Anuncio"/>
 </qualifiedTypeNameHistroy>
